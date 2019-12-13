@@ -30,7 +30,7 @@ public class Main {
 
 		data_evento = LocalDate.of(2019, Month.AUGUST, 31);
 
-		VideoEvento v2 = new VideoEvento(nome_evento, data_evento, Sport.CALCIO);
+		VideoEvento v2 = new VideoEvento(nome_evento, data_evento, Sport.CALCIO)
 
 
 
